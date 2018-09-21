@@ -1,0 +1,28 @@
+_repo: Philosophical-Works-v-2-of-4-Including-All-the-Essays-and-Exhibiting-the-More-Important-Alter__53792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+description: ''
+gutenberg_issued: '2016-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcc 'B'
+- !lcsh 'Philosophy, English -- 18th century'
+- GITenberg
+title: "Philosophical Works, v. 2 (of 4)\r\nIncluding All the Essays, and Exhibiting\
+  \ the More Important Alterations and Corrections in the Successive Editions Published\
+  \ by the Author"
+url: http://www.gutenberg.org/ebooks/53792
